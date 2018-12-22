@@ -22,3 +22,8 @@ body {
     background-position: center;
     background-attachment: fixed; */
 }
+
+
+.slider-size {
+    height: 480px;
+}
